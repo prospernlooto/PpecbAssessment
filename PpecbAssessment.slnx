@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="PpecbAssessment.Application/PpecbAssessment.Application.csproj" />
+  <Project Path="PpecbAssessment.Domain/PpecbAssessment.Domain.csproj" />
+  <Project Path="PpecbAssessment.Infrastructure/PpecbAssessment.Infrastructure.csproj" />
+  <Project Path="PpecbAssessment.Tests/PpecbAssessment.Tests.csproj" />
+  <Project Path="PpecbAssessment.WebApi/PpecbAssessment.WebApi.csproj" />
+</Solution>
